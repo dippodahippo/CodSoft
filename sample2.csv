@@ -1,0 +1,2 @@
+,trans_date_trans_time,cc_num,merchant,category,amt,first,last,gender,street,city,state,zip,lat,long,city_pop,job,dob,trans_num,unix_time,merch_lat,merch_long
+0,08-03-2020 22:19,3.52804E+15,fraud_Brown PLC,misc_net,830.09,Traci,Bridges,F,00378 Sarah Burgs Suite 106,Winnsboro,SC,29180,34.381,-81.109,14267,Solicitor,08-03-1963,5ed4835c102855863c02d9ad5355cdbf,1362781148,34.762721,-81.015433

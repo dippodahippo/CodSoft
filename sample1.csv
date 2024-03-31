@@ -1,2 +1,2 @@
-,trans_date_trans_time,cc_num,merchant,category,amt,first,last,gender,street,city,state,zip,lat,long,city_pop,job,dob,trans_num,unix_time,merch_lat,merch_long
-0,20-05-2019 22:00,2.72043E+18,fraud_Abshire PLC,entertainment,561.06,Mark,Wood,M,854 Walker Dale Suite 488,Bowdoin,ME,4287,44.0575,-69.9656,3224,"Engineer, electronics",22-08-1997,61d285884cbf5dab9061b0c31e0d6d69,1337551226,44.174419,-69.058194
+RowNumber,CustomerId,Surname,CreditScore,Geography,Gender,Age,Tenure,Balance,NumOfProducts,HasCrCard,IsActiveMember,EstimatedSalary
+4176,15693376,Baryshnikov,741,Spain,Male,43,0,0,2,1,1,2920.63
